@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 if ! [ -e "hw2_2.model" ]; then
     wget https://www.dropbox.com/s/uxl4jf6kc23hv39/hw2_2.model?dl=1
     mv hw2_2.model?dl=1 hw2_2.model
