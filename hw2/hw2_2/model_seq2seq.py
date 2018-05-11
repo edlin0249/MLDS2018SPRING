@@ -25,8 +25,6 @@ import operator
 import json
 from functools import reduce
 import time
-
-import matplotlib.pyplot as plt
 import sys
 
 #from utils import *
