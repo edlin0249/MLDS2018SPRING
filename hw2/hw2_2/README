@@ -1,0 +1,17 @@
+test
+command line:
+bash hw2_seq2seq.sh $1 $2
+
+$1: input filename (format:.txt), $2: output filename (format:.txt)
+
+Example: bash hw2_seq2seq.sh input.txt output.txt
+
+====================================================================
+
+train
+command line:
+python3 model_seq2seq.py $1
+
+$1: input filename (format:.txt)
+
+Example: python3 model_seq2seq.py ../clr_conversation.txt
