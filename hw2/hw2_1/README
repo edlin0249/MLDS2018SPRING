@@ -6,4 +6,3 @@ Training:
 python model_seq2seq.py [training data dir] [training labels filename] [epoch #] [model name]
 eg. python model_seq2seq.py ../mlds_hw2_1_data/training_data/
 		../mlds_hw2_1_data/training_label.json 10 ../model_tmp
-
