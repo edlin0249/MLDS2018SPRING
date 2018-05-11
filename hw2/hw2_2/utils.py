@@ -33,7 +33,6 @@ import json
 from functools import reduce
 import time
 
-import matplotlib.pyplot as plt
 
 def fetch_data(cand, ref):
     """ Store each reference and candidate sentences as a list """
