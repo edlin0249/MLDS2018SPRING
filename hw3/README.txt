@@ -1,3 +1,11 @@
+[3-1] GAN
+
+Test:
+bash run_gan.sh
+
+
+[3-2] CONDITIONAL GAN
+
 Test:
 bash run_cgan.sh <testing_tags.txt>
 eg. bash run_cgan.sh dataset/testing_tags.txt
