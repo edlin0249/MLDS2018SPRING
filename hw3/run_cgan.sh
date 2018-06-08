@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-python cgan_test.py $1
+python3 cgan_test.py $1

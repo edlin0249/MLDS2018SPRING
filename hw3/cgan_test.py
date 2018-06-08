@@ -12,7 +12,6 @@ from torch.autograd import Variable
 from torchvision.utils import make_grid 
 
 import numpy as np
-import pandas as pd
 from PIL import Image 
 from keras.utils.np_utils import to_categorical
 
