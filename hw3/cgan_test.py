@@ -172,4 +172,4 @@ with open(sys.argv[1]) as handle:
 
 
 assign = [(hair_conv[hair], eyes_conv[eyes]) for hair, eyes in assigned]
-evaluation(netg, np.array(assign), baseline=True, seed=1)
+evaluation(netg, np.array(assign), baseline=True, seed=2)
